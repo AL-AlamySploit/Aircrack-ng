@@ -2,5 +2,6 @@
 DOS ATAC Wi-Fi
 
 # Requirements
-.Linux
-.aircrack-ng
+Linux
+
+aircrack-ng
