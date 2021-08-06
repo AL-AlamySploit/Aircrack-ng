@@ -3,7 +3,7 @@
 # A7Y Team
 apt install figlet
 clear
-figlet A l -Alamy
+figlet Aircrack-ng
 echo "welcome to my new tools"
 read -p "BSSID > " bssid
 read -p "intr name > " intr
