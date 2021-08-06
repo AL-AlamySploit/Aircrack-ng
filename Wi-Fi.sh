@@ -1,5 +1,5 @@
-#Channel
-#https://www.youtube.com/channel/UCQuGjfmo04jDd6zlBscslGQ
+#Channel: https://www.youtube.com/channel/UCQuGjfmo04jDd6zlBscslGQ
+#https://spider-team0.blogspot.com/2020/12/hacked-wifi-in-kali-linux.html
 # A7Y Team
 apt install figlet
 clear
